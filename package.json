@@ -1,0 +1,19 @@
+{
+  "name": "meower-nodejs",
+  "version": "1.0.0",
+  "description": "A node.js client for Meower",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshAtticus/Meower-NodeJS.git"
+  },
+  "author": "JoshAtticus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoshAtticus/Meower-NodeJS/issues"
+  },
+  "homepage": "https://github.com/JoshAtticus/Meower-NodeJS#readme"
+}
