@@ -1,6 +1,8 @@
 # Meower-NodeJS
 A node.js client for Meower
 
+> this is a dumpster fire do not use
+
 # Usage
 There are a few steps you need to get started with Meower-NodeJS
 
